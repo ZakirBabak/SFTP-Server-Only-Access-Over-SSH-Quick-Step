@@ -85,7 +85,7 @@
        X11Forwarding no
        PermitTTY no
 
-- # ctrl+s then ctrl+x: safe and exit
+- # ctrl+s , ctrl+x: save & exit
 
 - sudo sshd -t 
 - sudo systemctl restart ssh
