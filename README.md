@@ -67,4 +67,3 @@ sftp sftpuser@SERVER_IP
 ## Expected:
 SFTP access works
 SSH shell access is denied
--------------
